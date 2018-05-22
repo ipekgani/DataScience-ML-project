@@ -2,6 +2,7 @@
 This is the term project is for Introduction to Data Science course, CS210, in Sabancı University.
 
 In this project we took two sets of data from online source DataSF; drug-related crime data and school data of San Francisco.
+
 https://data.sfgov.org/Public-Safety/-Change-Notice-Police-Department-Incidents/tmnf-yvry/data
 https://data.sfgov.org/Economy-and-Community/Map-of-Schools/qb37-w9se
 
